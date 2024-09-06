@@ -1,20 +1,28 @@
 var myApp = angular.module('myApp',[]);
 myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
-    $scope.books = [];
+    $scope.rayWenderlich = [];
+    $scope.humbleBundle = [];
 
     $scope.init = function () {
-        getData();
+        getData("rayWenderlich");
+        getData("humbleBundle");
     }
 
-    getData = () =>  {
-        var file = "data/ray-wenderlich.json";
+    getData = (category) =>  {
+        var file = `data/${category}.json`;
 
         $http.get(file)
         .then(function(response) {
-            $scope.books = response.data.books;
+            $scope[category] = response.data.books;
         });
     };
 
     $scope.init();
+});
+
+myApp.filter("toDate", function () {
+    return function (items) {
+        return new Date(items);
+    };
 });

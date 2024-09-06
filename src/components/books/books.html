@@ -1,0 +1,18 @@
+<div class="container"></div>
+    <div class="row">
+        <div 
+            ng-repeat="book in $ctrl.books | filter:searchText"
+            class="col-md-2"
+            style="margin-bottom: 50px;"
+        >
+            <div class="card" style="width: 15rem;">
+                <img ng-src="{{book.image}}" class="card-img-top" alt="{{book.name}}">
+                <div class="card-body">
+                    <h5 class="card-title">{{book.name}}</h5>
+                    <p class="card-text">{{book.description}}</p>
+                    <a ng-href="{{book.link}}" target="_blank" class="btn btn-success">Official Link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,130 @@
+{
+    "books": [
+        {
+            "name": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-14.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-13.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Designing BSD Rootkits: An Introduction to Kernel Hacking",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-12.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Bitcoin for the Befuddled",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-11.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Hacking the Xbox: An Introduction to Reverse Engineering",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-10.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-9.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-8.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "The Maker's Guide to the Zombie Apocalypse: Defend Your Base with Simple Circuits, Arduino, and Raspberry Pi",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-7.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-6.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Hacker Bundle 2016 PDF Sampler",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-5.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-4.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Black Hat Python: Python Programming for Hackers and Pentesters",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-3.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Hacking: The Art of Exploitation, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-2.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "The Linux Command Line: A Complete Introduction",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/no-starch-hacking-books",
+            "image": "images/humble-bundle/nsp-1.avif",
+            "category": "Hacking presented by No Starch Press",
+            "date": "Apr 27, 2016",
+            "price": "$15"
+        }
+    ]
+}
