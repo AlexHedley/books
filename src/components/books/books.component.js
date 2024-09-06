@@ -6,6 +6,7 @@ angular.module("myApp").component("books", {
     templateUrl: "components/books/books.html",
     controller: BooksController,
     bindings: {
+        header: "@",
         books: "<",
     },
 });
