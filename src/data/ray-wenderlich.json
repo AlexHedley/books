@@ -1,0 +1,151 @@
+{
+    "books": [
+        {
+            "name": "iOS 5 by Tutorials",
+            "description": "iOS 5 by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-5-by-tutorials",
+            "image": "images/ray-wenderlich/iOS5.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS 6 by Tutorials",
+            "description": "iOS 6 by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-6-by-tutorials",
+            "image": "images/ray-wenderlich/iOS6.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS 7 by Tutorials",
+            "description": "iOS 7 by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-7-by-tutorials",
+            "image": "images/ray-wenderlich/iOS7.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS 8 by Tutorials",
+            "description": "iOS 8 by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-8-by-tutorials",
+            "image": "images/ray-wenderlich/iOS8.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS 9 by Tutorials",
+            "description": "iOS 9 by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-9-by-tutorials",
+            "image": "images/ray-wenderlich/iOS9.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS 10 by Tutorials",
+            "description": "iOS 10 by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-10-by-tutorials",
+            "image": "images/ray-wenderlich/iOS10.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS 11 and Swift 4 for Beginners: The Course Companion",
+            "description": "iOS 11 and Swift 4 for Beginners: The Course Companion",
+            "link": "https://store.raywenderlich.com/products/ios-11-and-swift-4-for-beginners-the-course-companion",
+            "image": "images/ray-wenderlich/iOS11.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS Apprentice",
+            "description": "iOS Apprentice",
+            "link": "https://store.raywenderlich.com/products/ios-apprentice",
+            "image": "images/ray-wenderlich/UIKit-A.png",
+            "category": "iOS"
+        },
+        {
+            "name": "Swift Apprentice",
+            "description": "Swift Apprentice",
+            "link": "https://store.raywenderlich.com/products/swift-apprentice",
+            "image": "images/ray-wenderlich/Swift-A.png",
+            "category": "iOS"
+        },
+        {
+            "name": "watchOS by Tutorials",
+            "description": "watchOS by Tutorials",
+            "link": "https://store.raywenderlich.com/products/watchos-by-tutorials",
+            "image": "images/ray-wenderlich/watch.png",
+            "category": "iOS"
+        },
+        {
+            "name": "tvOS Apprentice",
+            "description": "tvOS Apprentice",
+            "link": "https://store.raywenderlich.com/products/tvos-apprentice",
+            "image": "images/ray-wenderlich/tvOS.png",
+            "category": "iOS"
+        },
+        {
+            "name": "iOS Animations by Tutorials",
+            "description": "iOS Animations by Tutorials",
+            "link": "https://store.raywenderlich.com/products/ios-animations-by-tutorials",
+            "image": "images/ray-wenderlich/iOS-Animations.png",
+            "category": "iOS"
+        },
+        {
+            "name": "WatchKit by Tutorials",
+            "description": "WatchKit by Tutorials",
+            "link": "https://store.raywenderlich.com/products/watchkit-by-tutorials",
+            "image": "images/ray-wenderlich/watchkit.png",
+            "category": "iOS"
+        },
+        {
+            "name": "Swift by Tutorials",
+            "description": "Swift by Tutorials",
+            "link": "https://store.raywenderlich.com/products/swift-by-tutorials",
+            "image": "images/ray-wenderlich/swift.png",
+            "category": "iOS"
+        },
+        {
+            "name": "Core Data by Tutorials",
+            "description": "Core Data by Tutorials",
+            "link": "https://store.raywenderlich.com/products/core-data-by-tutorials",
+            "image": "images/ray-wenderlich/core-data.png",
+            "category": "iOS"
+        },
+        {
+            "name": "2D Apple Games by Tutorials",
+            "description": "2D Apple Games by Tutorials",
+            "link": "https://store.raywenderlich.com/products/2d-apple-games-by-tutorials",
+            "image": "images/ray-wenderlich/2d-apple-games.png",
+            "category": "iOS"
+        },
+        {
+            "name": "3D Apple Games by Tutorials",
+            "description": "3D Apple Games by Tutorials",
+            "link": "https://store.raywenderlich.com/products/3d-apple-games-by-tutorials",
+            "image": "images/ray-wenderlich/3d-apple-games.png",
+            "category": "iOS"
+        },
+        {
+            "name": "RWDevCon 2016 Vault",
+            "description": "RWDevCon 2016 Vault",
+            "link": "https://store.raywenderlich.com/products/rwdevcon-2016-vault",
+            "image": "images/ray-wenderlich/RWDevCon-2016.png",
+            "category": "iOS"
+        },
+        {
+            "name": "RWDevCon 2017 Vault - Bundle",
+            "description": "RWDevCon 2017 Vault - Bundle, Tutorials, Workshops",
+            "link": "https://store.raywenderlich.com/products/rwdevcon-2017-vault-bundle",
+            "image": "images/ray-wenderlich/RWDevCon-2017.png",
+            "category": "iOS"
+        },
+        {
+            "name": "Udemy Bonus Content",
+            "description": "iOS 11 and Swift 4 for Beginners",
+            "link": "https://store.kodeco.com/products/udemy-bonus-content",
+            "image": "images/ray-wenderlich/udemy-bonus-content.png",
+            "category": "git"
+        },
+        {
+            "name": "Advanced Git",
+            "description": "Advance your understanding of how Git works under the hood, master workflows, branching, merging and rebasing your work for easy and successful project collaboration! By Chris Belanger & Jawwad Ahmad.",
+            "link": "https://www.kodeco.com/books/advanced-git",
+            "image": "images/ray-wenderlich/advanced-git.png",
+            "category": "git"
+        }
+    ]
+}

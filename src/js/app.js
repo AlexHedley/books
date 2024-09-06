@@ -8,7 +8,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
     }
 
     getData = () =>  {
-        var file = 'data/books.json';
+        var file = "data/ray-wenderlich.json";
 
         $http.get(file)
         .then(function(response) {

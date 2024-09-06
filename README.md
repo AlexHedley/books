@@ -9,6 +9,7 @@ Collection of books
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 [![Deploy static content to Pages](https://github.com/AlexHedley/books/actions/workflows/static.yml/badge.svg)](https://github.com/AlexHedley/books/actions/workflows/static.yml)
+[![pages-build-deployment](https://github.com/AlexHedley/books/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AlexHedley/books/actions/workflows/pages/pages-build-deployment)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/AlexHedley/books.svg)](https://GitHub.com/AlexHedley/books/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/AlexHedley/books.svg)](https://GitHub.com/AlexHedley/books/issues/)
