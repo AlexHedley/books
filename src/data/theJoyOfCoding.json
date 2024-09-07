@@ -1,0 +1,157 @@
+{
+    "books": [
+        {
+            "name": "If Hemingway Wrote JavaScript",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-17.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Realm of Racket: Learn to Program, One Game at a Time!",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-16.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Think Like a Programmer: An Introduction to Creative Problem Solving",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-15.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "The Book of F#: Breaking Free with Managed Functional Programming",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-14.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "The Linux Command Line: A Complete Introduction",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-13.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-12.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Art of R Programming: A Tour of Statistical Software Design",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-11.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Write Great Code, Volume 1: Understanding the Machine - 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-10.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-9.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Land of Lisp: Learn to Program in Lisp, One Game at a Time!",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-8.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Learn You A Haskell for Great Good!",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-7.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Python Playground: Geeky Projects for the Curious Programmer",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-6.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Hacker Bundle 2016 PDF Sampler",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-5.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-4.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-3.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "The Principles of Object-Oriented JavaScript",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-2.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        },
+        {
+            "name": "Learn You Some Erlang for Great Good!",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/joy-of-coding-book-bundle",
+            "image": "images/humble-bundle/tjoc-1.avif",
+            "category": "Joy of Coding presented by No Starch Press",
+            "date": "Aug 17, 2016",
+            "price": "$15"
+        }
+    ]
+}

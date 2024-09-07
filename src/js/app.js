@@ -2,11 +2,15 @@ var myApp = angular.module('myApp',[]);
 myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
     $scope.rayWenderlich = [];
-    $scope.humbleBundle = [];
+    $scope.hacking = [];
+    $scope.theJoyOfCoding = [];
+    $scope.dataScience = [];
 
     $scope.init = function () {
         getData("rayWenderlich");
-        getData("humbleBundle");
+        getData("hacking");
+        getData("theJoyOfCoding");
+        getData("dataScience");
     }
 
     getData = (category) =>  {

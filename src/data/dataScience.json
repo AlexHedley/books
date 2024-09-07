@@ -1,0 +1,148 @@
+{
+    "books": [
+        {
+            "name": "Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Learning and AI",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-16.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "R in a Nutshell: A Desktop Quick Reference, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-15.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Think Bayes: Bayesian Statistics in Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-14.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Think Stats, 2e: Exploratory Data Analysis",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-13.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Graph Databases, 2e: New Opportunities for Connected Data",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-12.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-11.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Time Series Databases: New Ways to Store and Access Data",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-10.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Thoughtful Machine Learning with Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-9.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-8.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Learning Spark: Lightning-Fast Big Data Analysis",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-7.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-6.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Practical Machine Learning: Innovations in Recommendation",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-5.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Data Science at the Command Line: Facing the Future with Time-Tested Tools",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-4.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Practical Machine Learning: A New Look at Anomaly Detection",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-3.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Cassandra: The Definitive Guide, 2e: Distributed Data at Web Scale",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-2.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Doing Data Science: Straight Talk from the Frontline",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/data-science-books",
+            "image": "images/humble-bundle/ds-1.avif",
+            "category": "Data Science presented by O'Reilly",
+            "date": "Sep 10, 2017",
+            "price": "$15.00"
+        }
+    ]
+}
