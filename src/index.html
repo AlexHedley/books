@@ -49,12 +49,106 @@
 
         <div ng-controller="myController">
 
-            <books books="rayWenderlich" header="images/ray-wenderlich/rw-logo.png"></books>
-            <books books="hacking" header="images/humble-bundle/Hacking-presented-by-No-Starch-Press.avif"></books>
-            <books books="theJoyOfCoding" header="images/humble-bundle/The-Joy-Of-Coding.avif"></books>
-            <books books="dataScience" header="images/humble-bundle/Data-Science-OReilly.avif"></books>
-            <books books="hackingReloaded" header="images/humble-bundle/Hacking-Reloaded.avif"></books>
-            <books books="pythonPackt" header="images/humble-bundle/Python-Packt.avif"></books>
+            <!-- <div class="accordion">
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse">
+                                Expand All
+                            </button>
+                        </h2>
+                    </div>
+                </div>
+            </div> -->
+
+            <div class="accordion" id="accordionExample">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Ray Wenderlich
+                            </button>
+                        </h2>
+                    </div>
+
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <books books="rayWenderlich" header="images/ray-wenderlich/rw-logo.png"></books>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Hacking
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <books books="hacking" header="images/humble-bundle/Hacking-presented-by-No-Starch-Press.avif"></books>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingThree">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            The Joy Of Coding
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <books books="theJoyOfCoding" header="images/humble-bundle/The-Joy-Of-Coding.avif"></books>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            Data Science
+                            </button>
+                        </h2>
+                    </div>
+
+                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <books books="dataScience" header="images/humble-bundle/Data-Science-OReilly.avif"></books>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingFive">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            Hacking Reloaded
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <books books="hackingReloaded" header="images/humble-bundle/Hacking-Reloaded.avif"></books>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingSix">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                            Python
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <books books="pythonPackt" header="images/humble-bundle/Python-Packt.avif"></books>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
 
