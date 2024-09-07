@@ -1,0 +1,139 @@
+{
+    "books": [
+        {
+            "name": "The Book of PoC || GTFO",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-15.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "The IDA Pro Book",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-14.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Metasploit: A Penetration Tester's Guide",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-13.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "iOS Application Security",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-12.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "The Practice of Network Security Monitoring",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-11.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Game Hacking",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-10.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-9.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "The Car Hacker's Handbook",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-8.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Penetration Testing",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-7.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Practical Packet Analysis",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-6.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Practical Forensic Imaging",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-5.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Android Security Internals",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-4.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Hacking: The Art of Exploitation, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-3.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "The Book of PF: A No-Nonsense Guide to the OpenBSD Firewall",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-2.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        },
+        {
+            "name": "Absolute OpenBSD",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/hacking-reloaded-books",
+            "image": "images/humble-bundle/hr-1.avif",
+            "category": "Hacking Reloaded presented by No Starch Press",
+            "date": "Sep 25, 2017",
+            "price": "$15.00"
+        }
+    ]
+}

@@ -5,12 +5,14 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
     $scope.hacking = [];
     $scope.theJoyOfCoding = [];
     $scope.dataScience = [];
+    $scope.hackingReloaded = [];
 
     $scope.init = function () {
         getData("rayWenderlich");
         getData("hacking");
         getData("theJoyOfCoding");
         getData("dataScience");
+        getData("hackingReloaded");
     }
 
     getData = (category) =>  {
