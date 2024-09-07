@@ -2,7 +2,7 @@
     <img ng-src="{{$ctrl.header}}" alt="{{$ctrl.books[0].category}} Header" />
     <div class="row">
         <div 
-            ng-repeat="book in $ctrl.books | filter:searchText"
+            ng-repeat="book in $ctrl.books | filter:$ctrl.search"
             class="col-md-2"
             style="margin-bottom: 50px;"
         >

@@ -8,5 +8,6 @@ angular.module("myApp").component("books", {
     bindings: {
         header: "@",
         books: "<",
+        search: "<",
     },
 });
