@@ -1,0 +1,222 @@
+{
+    "books": [
+        {
+            "name": "Python Machine Learning",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-18.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python High Performance",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-17.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Programming with Raspberry Pi",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-16.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Building RESTful Python Web Services",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-15.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Learning Robotics using Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-14.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Microservices Development",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-13.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Web Development with Django",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-12.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Software Architecture with Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-11.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Modern Python Cookbook",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-10.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Learning Concurrency in Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-9.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-8.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Expert Python Programming",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-7.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Data Science Essentials",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-6.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Artificial Intelligence with Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-5.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Data Analysis Cookbook",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-4.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python GUI Programming Cookbook",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-3.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Python Networking",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-2.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Data Structures and Algorithms",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-1.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        }
+    ],
+    "videos": [
+        {
+            "name": "Learning Python Web Penetration Testing",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-v-6.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Machine Learning Projects",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-v-5.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-v-4.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Deep Learning with Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-v-3.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Python Design Patterns",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-v-2.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Beginning Python",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/python-by-packt-book-bundle",
+            "image": "images/humble-bundle/pp-v-1.avif",
+            "category": "Python by Packt",
+            "date": "Jan 12, 2018",
+            "price": "$15.00"
+        }
+    ]
+}
