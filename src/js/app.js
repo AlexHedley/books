@@ -8,6 +8,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
     $scope.hackingReloaded = [];
     $scope.pythonPackt = [];
     $scope.devOpsPackt = [];
+    $scope.msnetApress = [];
 
     $scope.init = function () {
         getData("rayWenderlich");
@@ -17,6 +18,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
         getData("hackingReloaded");
         getData("pythonPackt");
         getData("devOpsPackt");
+        getData("msnetApress");
     }
 
     getData = (category) =>  {

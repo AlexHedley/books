@@ -1,0 +1,184 @@
+{
+    "books": [
+        {
+            "name": "Modern Data Access with Entity Framework Core",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-20.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Essential Docker for ASP.NET Core MVC",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-19.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Beginning Xamarin Development for the Mac",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-18.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Introducing Microsoft Teams",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-17.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Pro C# 7",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-16.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Modern Algorithms for Image Processing",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-15.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Microsoft Computer Vision APIs Distilled",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-14.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Developing Bots with Microsoft Bots Framework",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-13.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Cosmos DB for MongoDB Developers",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-12.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Modern API Design with ASP.NET Core 2",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-11.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Beginning Entity Framework Core 2.0",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-10.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Hardening Azure Applications",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-9.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Azure and Xamarin Forms",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-8.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Xamarin.Forms Solutions",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-7.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "IoT, AI, and Blockchain for .NET",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-6.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Beginning XML with C# 7",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-5.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Deep Learning with Azure",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-4.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Practical Bot Development",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-3.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "C# 7 Quick Syntax Reference",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-2.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        },
+        {
+            "name": "Visual Studio Code Distilled",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/microsoft-and-dot-net-books",
+            "image": "images/humble-bundle/msnet-1.avif",
+            "category": "Microsoft & .NET by Apress",
+            "date": "Apr 1, 2019",
+            "price": "$15.00"
+        }
+    ]
+}
