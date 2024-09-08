@@ -1,0 +1,231 @@
+{
+    "books": [
+        {
+            "name": "Practical Network Automation",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-16.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Kubernetes",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-15.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Ansible",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-14.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "DevOps with Kubernetes",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-13.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Effective DevOps with AWS",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-12.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Getting Started with Kubernetes, Second Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-11.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Docker",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-10.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Windows Server 2016 Automation with PowerShell Cookbook",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-9.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "OpenStack Administration with Ansible 2",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-8.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "DevOps for Networking",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-7.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Automate it!",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-6.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Puppet 5 Beginner's Guide",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-5.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Learning Continuous Integration with Jenkins",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-4.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Continuous Delivery with Docker and Jenkins",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-3.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Deployment with Docker",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-2.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Docker and Kubernetes for Java Developers",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-1.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        }
+    ],
+    "videos": [
+        {
+            "name": "Getting Started with Dockers",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-9.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Ansible 2 for Beginners",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-8.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "DevOps for Web Developers",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-7.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Deploying and Running Docker Containers",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-6.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering DevOps",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-5.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Learning Kubernetes",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-4.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Linux Shell Scripting Solutions",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-3.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Puppet for Large Infrastructures",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-2.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        },
+        {
+            "name": "Mastering Windows PowerShell 5 Administration",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/devops-books",
+            "image": "images/humble-bundle/dop-v-1.avif",
+            "category": "DevOps by Packt",
+            "date": "May 9, 2018",
+            "price": "$15.00"
+        }
+    ]
+}
