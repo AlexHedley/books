@@ -1,0 +1,49 @@
+{
+    "books": [
+        {
+            "name": "Flow Architectures",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/software-architecture-oreilly-books",
+            "image": "images/humble-bundle/sabo-1.avif",
+            "category": "Software Architecture by O'Reilly",
+            "date": "Sep 16, 2023",
+            "price": "£0.79"
+        },
+        {
+            "name": "Continuous API Management, 2e",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/software-architecture-oreilly-books",
+            "image": "images/humble-bundle/sabo-2.avif",
+            "category": "Software Architecture by O'Reilly",
+            "date": "Sep 16, 2023",
+            "price": "£0.79"
+        },
+        {
+            "name": "Monolith to Microservices",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/software-architecture-oreilly-books",
+            "image": "images/humble-bundle/sabo-3.avif",
+            "category": "Software Architecture by O'Reilly",
+            "date": "Sep 16, 2023",
+            "price": "£0.79"
+        },
+        {
+            "name": "The Art of Agile Development, 2E",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/software-architecture-oreilly-books",
+            "image": "images/humble-bundle/sabo-4.avif",
+            "category": "Software Architecture by O'Reilly",
+            "date": "Sep 16, 2023",
+            "price": "£0.79"
+        },
+        {
+            "name": "Building Micro-Frontends",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/software-architecture-oreilly-books",
+            "image": "images/humble-bundle/sabo-5.avif",
+            "category": "Software Architecture by O'Reilly",
+            "date": "Sep 16, 2023",
+            "price": "£0.79"
+        }
+    ]
+}
