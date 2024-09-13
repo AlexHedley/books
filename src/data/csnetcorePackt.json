@@ -1,0 +1,195 @@
+{
+    "books": [
+        {
+            "name": "C# 8 and .NET Core 3.0 Projects Using Azure - Second Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-1.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Domain-Driven Design with .NET Core",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-2.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Design Patterns with C# and .NET Core",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-3.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Network Programming with C# and .NET Core",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-4.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Parallel Programming with C# 8 and .NET Core 3",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-5.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Programming in C#: Exam 70-483 (MCSD) Guide",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-6.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "C# 8.0 and .NET Core 3.0 - Modern Cross-Platform Development - Fourth Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-7.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Software Architecture with C# 8 and .NET Core 3",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-8.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Object-Oriented Programming with C#",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-9.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On RESTful Web Services with ASP.NET Core 3",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-10.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "ASP.NET Core 3 and React",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-11.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Mobile Development with .NET Core",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-12.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "ASP.NET Core 3 and Angular 9 - Third Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-13.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        }
+    ],
+    "videos": [
+        {
+            "name": "Modernize ASP.NET Web Apps with Azure App Service",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-1.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "C# 8 and .NET Core 3.0 New Features",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-2.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Hands-On Web Development with ASP.NET Core and Angular 7",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-3.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Learning C# 8 and .NET Core 3.0",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-4.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Build a Real-World App with ASP.NET Core MVC",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-5.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Beginning ASP.NET Core 3.0",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-6.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "Modern App Development with C# 8 and .NET Core 3.0",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-7.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        },
+        {
+            "name": "C# 8 Programming in 4 Hours",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/c-net-core-packt-books",
+            "image": "images/humble-bundle/csncp-v-8.avif",
+            "category": "C# & .NET Core by Packt",
+            "date": "May 7, 2020",
+            "price": "£12.00"
+        }
+    ]
+}
