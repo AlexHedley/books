@@ -13,6 +13,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
     $scope.softwareArchitectureOReilly = [];
     $scope.csharpMastery = [];
     $scope.cybersecurityPearson = [];
+    $scope.linux = [];
 
     $scope.init = function () {
         getData("rayWenderlich");
@@ -27,6 +28,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
         getData("softwareArchitectureOReilly");
         getData("csharpMastery");
         getData("cybersecurityPearson");
+        getData("linux");
     }
 
     getData = (category) =>  {

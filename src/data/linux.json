@@ -1,0 +1,139 @@
+{
+    "books": [
+        {
+            "name": "Python for DevOps",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-15.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Learning GitHub Actions",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-14.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Efficient Linux at the Command Line",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-13.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Docker: Up & Running, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-12.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Terraform: Up and Running, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-11.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Web Application Security, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-10.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Kubernetes: Up and Running, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-9.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Practical Linux System Administration",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-8.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Ansible: Up and Running, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-7.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Linux Pocket Guide, 4th Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-6.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Network Programmability and Automation, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-5.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Learning DevSecOps",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-4.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Learning Modern Linux",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-3.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "FastAPI",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-2.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        },
+        {
+            "name": "Learning Git",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books",
+            "image": "images/humble-bundle/lo-1.avif",
+            "category": "Linux for Seasoned Admins by O'Reilly",
+            "date": "Jun 23, 2024",
+            "price": "£19.52"
+        }
+    ]
+}
