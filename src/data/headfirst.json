@@ -1,0 +1,139 @@
+{
+    "books": [
+        {
+            "name": "Head First Java, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-15.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Software Architecture",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-14.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Git",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-13.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Kotlin",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-12.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Agile",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-11.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Statistics",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-10.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Swift",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-9.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First C",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-8.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Python, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-7.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Android Development, 3rd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-6.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Go",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-5.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First HTML and CSS, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-4.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Design Patterns, 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-3.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First Learn to Code",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-2.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        },
+        {
+            "name": "Head First PMP, 4th Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/head-first-2024-oreilly-books",
+            "image": "images/humble-bundle/hf-1.avif",
+            "category": "Head First 2024 by O'Reilly",
+            "date": "Sep 1, 2024",
+            "price": "£19.54"
+        }
+    ]
+}
