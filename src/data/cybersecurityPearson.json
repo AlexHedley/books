@@ -1,0 +1,166 @@
+{
+    "books": [
+        {
+            "name": "CompTIA Security+ SY0-701 Cert Guide",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-18.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Microsoft Defender for Cloud",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-17.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Building a Career in Cybersecurity",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-16.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Ransomware and Cyber Extortion",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-15.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Network Security",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-14.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Microsoft Sentinel",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-13.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Cybersecurity Myths and Misconceptions",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-12.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Effective Cybersecurity",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-11.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Zero Trust Architecture",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-10.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Designing and Developing Secure Azure Solutions",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-9.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Securing 5G and Evolving Architectures",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-8.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Information Privacy Engineering and Privacy by Design",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-7.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "In Zero Trust We Trust",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-6.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "A Practical Guide to Digital Forensics Investigations",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-5.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Microsoft Azure Network Security",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-4.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Data Breaches",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-3.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "The Modern Security Operations Center",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-2.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        },
+        {
+            "name": "Database and Application Security: A Practitioner's Guide",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/cybersecurity-pearson-books",
+            "image": "images/humble-bundle/cp-1.avif",
+            "category": "Cybersecurity by Pearson",
+            "date": "May 19, 2024",
+            "price": "£19.87"
+        }
+    ]
+}
