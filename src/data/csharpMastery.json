@@ -1,0 +1,202 @@
+{
+    "books": [
+        {
+            "name": "Refactoring with C#",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-22.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Hands-On Network Programming with C# and .NET Core",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-21.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Clean Code With C# - 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-20.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "C# 10 and .NET 6 - Modern Cross-Platform Development - 6th Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-19.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Enterprise Application Development with C# 10 and .NET 6 - 2nd Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-18.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "The C# Workshop",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-17.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Microservices Communication in .NET Using gRPC",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-16.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": ".NET MAUI Cross-Platform Application Development",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-15.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals - 8th Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-14.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Implementing Event-Driven Microservices Architecture in .NET 7",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-13.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Hands-On Object-Oriented Programming with C#",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-12.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Real-World Implementation of C# Design Patterns",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-11.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": ".NET MAUI for C# Developers",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-10.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Pragmatic Test-Driven Development in C# and .NET",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-9.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Software Architecture with C# 10 and .NET 6 – Third Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-8.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "The MVVM Pattern in .NET MAUI",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-7.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "High-Performance Programming in C# and .NET",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-6.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Parallel Programming and Concurrency with C# 10 and .NET 6",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-5.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "A Developer's Guide to .NET in Azure",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-4.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "C# Data Structures and Algorithms - Second Edition",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-3.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "C# Interview Guide",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-2.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        },
+        {
+            "name": "Microservices Design Patterns in .NET",
+            "description": "",
+            "link": "https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books",
+            "image": "images/humble-bundle/mcp-1.avif",
+            "category": "Mastery of C# and .NET awaits",
+            "date": "Apr 7, 2024",
+            "price": "£15.00"
+        }
+    ]
+}
