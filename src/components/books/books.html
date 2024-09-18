@@ -1,5 +1,5 @@
 <div class="container">
-    <img ng-src="{{$ctrl.header}}" alt="{{$ctrl.books[0].category}} Header" />
+    <img ng-if="$ctrl.header.length > 0" ng-src="{{$ctrl.header}}" alt="{{$ctrl.books[0].category}} Header" />
     <div class="row">
         <div 
             ng-repeat="book in $ctrl.books | filter:$ctrl.search"
@@ -14,10 +14,12 @@
                 <div class="card-body">
                     <!-- <h5 class="card-title">{{book.name}}</h5> -->
                     <p class="card-text">{{book.description}}</p>
+                    <p ng-if="book.author.length > 0" class="card-text">{{book.author}}</p>
                     <a ng-href="{{book.link}}" target="_blank" class="btn btn-success">Official Link</a>
                     <div>
                         <span class="badge badge-pill" style="margin-left: 5px">{{book.price}}</span>
                     </div>
+                    <span ng-if="book.number" class="badge badge-pill">{{book.number}}</span>
                 </div>
                 <div class="card-footer">
                     <span ng-if="book.date.length > 0">{{book.date | toDate | date:'mediumDate'}}</span>

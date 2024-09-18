@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "name": "CSS3 for Web Designers",
+            "author": "Dan Cederholm",
+            "description": "",
+            "link": "https://abookapart.com/products/css3-for-web-designers",
+            "image": "images/a-book-apart/aba-cfwd.png",
+            "category": "A Book Apart",
+            "number": 2
+        },
+        {
+            "name": "Responsive Web Design",
+            "author": "Ethan Marcotte",
+            "description": "",
+            "link": "https://abookapart.com/products/responsive-web-design",
+            "image": "images/a-book-apart/aba-rwd.png",
+            "category": "A Book Apart",
+            "number": 4
+        }
+    ]
+}
